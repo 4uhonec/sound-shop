@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="murach">
+            <file>file:/F:/programming/servlet-projects/sound-shop/src/java/sound/entities/Cart.java</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/web/includes/item-added.jsp</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/web/includes/register.jsp</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/web/includes/item-details.jsp</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/src/java/sound/utils/PasswordUtils.java</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/src/java/sound/entities/LineItem.java</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/web/index.jsp</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/src/java/sound/database/ItemDB.java</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/src/java/sound/utils/SoundStoreContextListener.java</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/src/java/sound/database/ConnectionPool.java</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/web/includes/login.jsp</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/src/java/sound/controllers/AddItemServlet.java</file>
+            <file>file:/F:/programming/servlet-projects/sound-shop/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
